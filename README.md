@@ -31,4 +31,4 @@
 
 
 
-⊂(◉‿◉)つ Si quieres conocer más acerca de mí, puedes visitar mi [GitHub](https://github.com/GabriLPDA22).⊂(◉‿◉)つ
+ Si quieres conocer más acerca de mí, puedes visitar mi [GitHub](https://github.com/GabriLPDA22).⊂(◉‿◉)つ
