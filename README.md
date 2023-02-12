@@ -1,16 +1,34 @@
-### Hi there 👋
+# Perfil de Estudiante de Grado Medio en Informática
 
-<!--
-**GabriLPDA22/GabriLPDA22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mí
 
-Here are some ideas to get you started:
+(｡◕‿◕｡) Hola! Me llamo Gabriel y estoy cursando un Grado Medio en Informática. Me gusta crear cosas con mi ordenador y aprender cada día algo nuevo. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Habilidades
+
+- Programación en lenguajes como  Python, CSS3 y HTML5.
+- Diseño y desarrollo de páginas web con Wordpress.
+- Uso de herramientas de diseño gráfico (Adobe Photoshop, Illustrator, etc.).
+- Instalacion de Redes.
+- Experiencia en el uso de sistemas operativos como Windows, Linux y AWS.
+- Ágil en la resolución de problemas y la toma de decisiones. 
+- Capacidad de trabajar de forma independiente y en equipo.
+
+## Intereses
+
+- Desarrollo de juegos para PC y móviles.
+- Creación de aplicaciones para dispositivos móviles.
+- Diseño gráfico y desarrollo de interfaces para sitios web.
+- Uso de tecnologías de realidad virtual y aumentada.
+- Desarrollo de aplicaciones de inteligencia artificial.
+
+## Proyectos
+
+- Prototipo de una aplicación móvil para la gestión de transporte publico de mi ciudad. 
+- Diseño y desarrollo de una página web para una empresa de construcción.
+- Creación de un juego para PC con python.
+- Este reto consistía en una propuesta que nos brindo Seas Estudios Abiertos del Grupo San Valero para diseñar las instalaciones de su plata principal
+
+
+
+⊂(◉‿◉)つ Si quieres conocer más acerca de mí, puedes visitar mi [GitHub](https://github.com/GabriLPDA22).⊂(◉‿◉)つ
