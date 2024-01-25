@@ -4,7 +4,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Estudiante+de+DAW+en+aprendizaje+constante;Apasionado+por+IA,+diseño+gráfico,+y+tecnología;Explorando+Java,+Python,+SQL+y+C%23;"></a>
 </p>
 
-## <picture><img src = "https://github.com/[tu-usuario]/GabriLPDA22/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Sobre mí**
+## <picture><img src = "https://github.com/GabriLPDA22/GabriLPDA22/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Sobre mí**
 
 <picture> <img align="right" src="https://github.com/[tu-usuario]/[tu-usuario]/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
@@ -51,9 +51,45 @@
 
 ## <b> ¡Conectemos..!</b><img src="https://github.com/[tu-usuario]/[tu-usuario]/raw/main/assets/mdImages/handshake.gif" width ="80">
 
-<!-- Aquí puedes agregar tus redes sociales o formas de contacto -->
+<div align='left'>
+
+<ul>
+
+<li>
+<a href="https://linkedin.com/in/gabriel-saiz-de-la-maza-bajo-140370184" target="_blank">
+<img src="https://img.shields.io/badge/linkedin:  Gabriel%20Saiz-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+</a>
+</li>
+
+<br>
+
+<li>
+<a href="https://twitter.com/saiz_gabri" target="_blank">
+<img src="https://img.shields.io/badge/twitter:  Gabriel%20Saiz-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
+</a>
+</li>
+
+<br>
+
+<li>
+<a href="https://www.instagram.com/saiz_gabriel/" target="_blank">
+<img src="https://img.shields.io/badge/instagram:  Gabriel%20Saiz-%23EA4335.svg?style=for-the-badge&logo=instagram&logoColor=white" t=mail style="margin-bottom: 5px;" />
+</a>
+</li>
+	
+</ul>
+</div>
 
 <div align='center'>
+
+## <b>¡Adelante, explorando el mundo de la tecnología!</b>
+</div>
+
+---
+
+Credit: [Gabriel Saiz](https://github.com/[tu-usuario])
+
+Last Edited on: [28/01/2024]
 
 ## <b>¡Adelante, explorando el mundo de la tecnología!</b>
 </div>
