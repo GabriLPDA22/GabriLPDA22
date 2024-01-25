@@ -7,7 +7,7 @@
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px" style="visibility:visible;max-width:100%;"></picture> **Sobre mí**
 
 <picture>
-  <img align="right" src="https://github.com/GabriLPDA22/GabriLPDA22/raw/main/assets/mdImages/Right_Side.gif" width="250px">
+  <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px" style="visibility:visible;max-width:100%;">
 </picture>
 
 
