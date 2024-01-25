@@ -6,13 +6,13 @@
 
 ## Sobre mí
 
-<p align="center">
-  <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px"/>
-</p>
+<picture>
+  <img src="https://github.com/[tu-usuario]/[tu-usuario]/raw/main/assets/mdImages/about_me.gif" width="50px">
+</picture>
 
-<p align="right">
-  <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px"/>
-</p>
+<picture>
+  <img align="right" src="https://github.com/[tu-usuario]/[tu-usuario]/raw/main/assets/mdImages/Right_Side.gif" width="250px">
+</picture>
 
 
 - 🌱 Estudiante de primer año de Desarrollo de Aplicaciones Web (DAW)
