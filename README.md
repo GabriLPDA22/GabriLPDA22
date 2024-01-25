@@ -7,7 +7,7 @@
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px" style="visibility:visible;max-width:100%;"></picture> **Sobre mí**
 
 <picture>
-  <img align="right" <img src="https://camo.githubusercontent.com/e2e93a7fdf20ca4f31a557c3bfc701bea95009d2520601aa6db1a64bc612b775/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f517670715443694563777476783677774a4b2f67697068792e676966" height="500" data-canonical-src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+  <img align="right" <img src="https://camo.githubusercontent.com/e2e93a7fdf20ca4f31a557c3bfc701bea95009d2520601aa6db1a64bc612b775/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f517670715443694563777476783677774a4b2f67697068792e676966" height="700" data-canonical-src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 </picture>
 
 
