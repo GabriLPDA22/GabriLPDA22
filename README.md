@@ -30,6 +30,9 @@
     ![Python](https://img.shields.io/badge/Python-%3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
     ![C#](https://img.shields.io/badge/C%23-%2391200F.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
     ![SQL](https://img.shields.io/badge/SQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+    ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+
+  	
 
 - **Herramientas y plataformas**:
 
