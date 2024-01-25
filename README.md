@@ -44,10 +44,11 @@
 <div align="center">
 
 <a href="https://github.com/[tu-usuario]">
-  <img src="https://github-readme-stats.vercel.app/api?username=[tu-usuario]&include_all_commits=true&count_private=true&show_icons=true&line_height=20" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=[tu-usuario]&show_icons=true&locale=en&layout=compact&line_height=20" width="375" alt="[tu-usuario]"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=[tu-usuario]&show_icons=true&theme=light&line_height=27" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[tu-usuario]&theme=light&hide_langs_below=1" width="450"/>
 </a>
 </div>
+
 
 ## <b> ¡Conectemos..!</b><img src="https://github.com/[tu-usuario]/[tu-usuario]/raw/main/assets/mdImages/handshake.gif" width ="80">
 
@@ -89,7 +90,6 @@
 
 Credit: [Gabriel Saiz](https://github.com/[tu-usuario])
 
-Last Edited on: [28/01/2024]
 
 ## <b>¡Adelante, explorando el mundo de la tecnología!</b>
 </div>
