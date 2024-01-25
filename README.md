@@ -98,7 +98,7 @@
 <h3>🌟 <b>Créditos</b> 🌟</h3>
 <p>
   <b>Gabriel Saiz</b><br>
-  <a href="https://github.com/[tu-usuario]" style="font-size: large; text-decoration: none;">
+  <a href="https://github.com/GabriLPDA22" style="font-size: large; text-decoration: none;">
     🚀 Visita mi GitHub 🚀
   </a>
   <br>
