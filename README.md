@@ -4,14 +4,10 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Estudiante+de+DAW+en+aprendizaje+constante;Apasionado+por+IA,+diseño+gráfico,+y+tecnología;Explorando+Java,+Python,+SQL+y+C%23;"></a>
 </p>
 
-## Sobre mí
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px" style="visibility:visible;max-width:100%;"></picture> **Sobre mí**
 
 <picture>
-  <img src="https://github.com/[tu-usuario]/[tu-usuario]/raw/main/assets/mdImages/about_me.gif" width="50px">
-</picture>
-
-<picture>
-  <img align="right" src="https://github.com/[tu-usuario]/[tu-usuario]/raw/main/assets/mdImages/Right_Side.gif" width="250px">
+  <img align="right" src="https://github.com/GabriLPDA22/GabriLPDA22/raw/main/assets/mdImages/Right_Side.gif" width="250px">
 </picture>
 
 
