@@ -53,10 +53,7 @@
 <a href="https://github.com/GabriLPDA22/github-readme-stats">
   <img alt="Lenguajes más usados por GabriLPDA22" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabriLPDA22&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
 </a>
-
   <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
 
 ## <b> ¡Conectemos..!</b><img src="https://github.com/GabriLPDA22/GabriLPDA22/raw/main/assets/mdImages/handshake.gif" width ="80">
 
