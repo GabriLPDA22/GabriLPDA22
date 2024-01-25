@@ -90,17 +90,24 @@
 ## <b>¡Adelante, explorando el mundo de la tecnología!</b>
 </div>
 
-<div align="center">
+<div align="left">
 
 ---
 
-<h3>🌟 Créditos 🌟</h3>
-<p><b>Gabriel Saiz</b><br>
-<a href="https://github.com/[tu-usuario]">Visita mi GitHub</a><br>
-Última edición: 25/01/2024</p>
-<img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="100">
+<h3>🌠✨ <b>Créditos</b> ✨🌠</h3>
+<p>
+  <b><span style="color: #1589FF;">Gabriel Saiz</span></b>
+  <br>
+  <a href="https://github.com/[tu-usuario]" style="text-decoration: none; color: #FF69B4;">
+    🚀 Visita mi GitHub 🚀
+  </a>
+  <br>
+  <span style="color: #7FFF00;">Última edición: 25/01/2024</span>
+</p>
+<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="200">
 
 ---
 
 </div>
+
 
