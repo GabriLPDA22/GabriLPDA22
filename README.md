@@ -90,12 +90,17 @@
 ## <b>¡Adelante, explorando el mundo de la tecnología!</b>
 </div>
 
----
-
-Credit: [Gabriel Saiz](https://github.com/[tu-usuario])
+<div align="center">
 
 ---
 
-Credit: [Gabriel Saiz](https://github.com/[tu-usuario])
+<h3>🌟 Créditos 🌟</h3>
+<p><b>Gabriel Saiz</b><br>
+<a href="https://github.com/[tu-usuario]">Visita mi GitHub</a><br>
+Última edición: 25/01/2024</p>
+<img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="100">
 
-Last Edited on: [25/01/2024]
+---
+
+</div>
+
