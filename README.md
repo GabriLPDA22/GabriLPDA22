@@ -42,7 +42,7 @@
     ![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-- **Diseño Gráfico y Extras**:
+- **Hobbies**:
 
     ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
     ![IA](https://img.shields.io/badge/IA-%2300BB00.svg?style=for-the-badge&logo=artificial-intelligence&logoColor=white)
