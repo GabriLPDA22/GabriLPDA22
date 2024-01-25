@@ -46,17 +46,11 @@
 
 ## Estadísticas de Github
 
-<div align="center">
-
-<a href="https://github.com/GabriLPDA22">
-  <img src="https://github-readme-stats.vercel.app/api?username=GabriLPDA22&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
-</a>
-
-<a href="https://github.com/[tu-usuario]">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabriLPDA22&layout=compact&theme=light" width="450"/>
-</a>
-
-</div>
+<br/>
+    <a href="https://github.com/GabriLPDA22/github-readme-stats"><img alt="GabriLPDA22 Github Stats" src="https://github-readme-stats.vercel.app/api?username=GabriLPDA22&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/Chaitanya-Pratap-Singh/github-readme-stats"><img alt="GabriLPDA22 Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabriLPDA22&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 
 ## <b> ¡Conectemos..!</b><img src="https://github.com/GabriLPDA22/GabriLPDA22/raw/main/assets/mdImages/handshake.gif" width ="80">
