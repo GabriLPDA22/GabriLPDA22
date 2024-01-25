@@ -39,14 +39,18 @@
 
 </p>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Estadísticas de Github </b>
+## Estadísticas de Github
 
 <div align="center">
 
 <a href="https://github.com/[tu-usuario]">
-  <img src="https://github-readme-stats.vercel.app/api?username=[tu-usuario]&show_icons=true&theme=light&line_height=27" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[tu-usuario]&theme=light&hide_langs_below=1" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=[tu-usuario]&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
 </a>
+
+<a href="https://github.com/[tu-usuario]">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[tu-usuario]&layout=compact&theme=light" width="450"/>
+</a>
+
 </div>
 
 
@@ -89,10 +93,6 @@
 ---
 
 Credit: [Gabriel Saiz](https://github.com/[tu-usuario])
-
-
-## <b>¡Adelante, explorando el mundo de la tecnología!</b>
-</div>
 
 ---
 
