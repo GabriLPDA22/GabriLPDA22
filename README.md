@@ -53,13 +53,14 @@
 ## Estadísticas de Github
 
 <br/>
-<a href="https://github.com/GabriLPDA22/GabriLPDA22/blob/main/README.md">
-  <img alt="Estadísticas de GitHub de GabriLPDA22" src="https://github-readme-stats.vercel.app/api?username=GabriLPDA22&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+<a href="https://github.com/GabriLPDA22">
+  <img alt="Estadísticas de GitHub de GabriLPDA22" src="https://github-readme-stats.vercel.app/api?username=GabriLPDA22&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
 </a>
-<a href="https://github.com/GabriLPDA22/GabriLPDA22/blob/main/README.md">
-  <img alt="Lenguajes más usados por GabriLPDA22" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabriLPDA22&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+<a href="https://github.com/GabriLPDA22">
+  <img alt="Lenguajes más usados por GabriLPDA22" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabriLPDA22&langs_count=10&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
 </a>
 <br/>
+
 
 ## <b> ¡Conectemos..!</b><img src="https://github.com/GabriLPDA22/GabriLPDA22/raw/main/assets/mdImages/handshake.gif" width ="80">
 
