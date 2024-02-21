@@ -25,28 +25,23 @@
 
 <p align="center">
 
-- **Tecnologias**:
-    
-    ![Java](https://img.shields.io/badge/Java-%23007396.svg?style=for-the-badge&logo=java&logoColor=white)
-    ![Python](https://img.shields.io/badge/Python-%3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-    ![C#](https://img.shields.io/badge/C%23-%2391200F.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-    </br>
-    ![SQL](https://img.shields.io/badge/SQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-    ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-    ![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-    </br>
-    ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-    ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-    ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-    </br>	
-    ![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-    </br>
+## Tecnologías:
+[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=101010)]()
+[![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
+[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)]()</br>
+[![SQL](https://img.shields.io/badge/SQL-00000F?style=for-the-badge&logo=sql&logoColor=white)]()
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
+[![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)]()</br>
+[![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)]()
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)]()
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=101010)]()</br>
+[![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white&labelColor=101010)]()
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)]()
 
-- **Hobbies**:
+## Hobbies:
+[![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white&labelColor=101010)]()
+[![IA](https://img.shields.io/badge/IA-000000?style=for-the-badge&logo=OpenAI&logoColor=white&labelColor=101010)]()
 
-    ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
-    ![IA](https://img.shields.io/badge/IA-%2300BB00.svg?style=for-the-badge&logo=artificial-intelligence&logoColor=white)
 
 </p>
 
@@ -64,34 +59,14 @@
 
 ## <b> ¡Conectemos..!</b><img src="https://github.com/GabriLPDA22/GabriLPDA22/raw/main/assets/mdImages/handshake.gif" width ="80">
 
-<div align='left'>
+![Handshake](https://github.com/GabriLPDA22/GabriLPDA22/raw/main/assets/mdImages/handshake.gif)
 
-<ul>
-
-<li>
-<a href="https://linkedin.com/in/gabriel-saiz-de-la-maza-bajo-140370184" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  Gabriel%20Saiz-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
-</a>
-</li>
-
-<br>
-
-<li>
-<a href="https://twitter.com/saiz_gabri" target="_blank">
-<img src="https://img.shields.io/badge/twitter:  Gabriel%20Saiz-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
-</a>
-</li>
-
-<br>
-
-<li>
-<a href="https://www.instagram.com/saiz_gabriel/" target="_blank">
-<img src="https://img.shields.io/badge/instagram:  Gabriel%20Saiz-%23EA4335.svg?style=for-the-badge&logo=instagram&logoColor=white" t=mail style="margin-bottom: 5px;" />
-</a>
-</li>
-	
-</ul>
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-@Gabriel_Saiz-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://linkedin.com/in/gabriel-saiz-de-la-maza-bajo-140370184)<br>
+[![Twitter](https://img.shields.io/badge/Twitter-@Gabriel_Saiz-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/saiz_gabri)<br>
+[![Instagram](https://img.shields.io/badge/Instagram-@Gabriel_Saiz-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/saiz_gabriel)<br>
+[![TikTok](https://img.shields.io/badge/TikTok-@Gabriel_Saiz-69C9D0?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=101010)](https://tiktok.com/saiz_gabriel)<br>
+[![Email](https://img.shields.io/badge/gsaiz.bajo@gmail.com-email_personal_(respuesta_lenta)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](Gaby:gsaiz.bajo@gmail.com)
+</br>
 
 <div align='center'>
 
@@ -109,7 +84,6 @@
     🚀 Visita mi GitHub 🚀
   </a>
   <br>
-  <span style="font-style: italic;">Última edición: 25/01/2024</span>
 </p>
 <p style="color: #1589FF; font-size: x-large;">
   🌐 Exploremos la tecnología juntos 🌐
@@ -118,6 +92,7 @@
 ---
 
 </div>
+
 
 
 
