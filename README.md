@@ -64,7 +64,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-@Gabriel_Saiz-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://linkedin.com/in/gabriel-saiz-de-la-maza-bajo-140370184)<br>
 [![Twitter](https://img.shields.io/badge/Twitter-@Gabriel_Saiz-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/saiz_gabri)<br>
 [![Instagram](https://img.shields.io/badge/Instagram-@Gabriel_Saiz-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/saiz_gabriel)<br>
-[![TikTok](https://img.shields.io/badge/TikTok-@Gabriel_Saiz-69C9D0?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=101010)]([https://tiktok.com/saiz_gabriel](https://www.tiktok.com/@saiz_gabriel))<br>
+[![TikTok: @saiz_gabriel](https://img.shields.io/badge/TikTok-@saiz_gabriel-69C9D0?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=101010)](https://www.tiktok.com/@saiz_gabriel)<br>
 [![Email](https://img.shields.io/badge/gsaiz.bajo@gmail.com-Email_personal_(respuesta_lenta)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:gsaiz.bajo@gmail.com)
 </br>
 
