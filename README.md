@@ -68,9 +68,9 @@
 [![Email](https://img.shields.io/badge/gsaiz.bajo@gmail.com-Email_personal_(respuesta_lenta)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:gsaiz.bajo@gmail.com)
 </br>
 
-<div align='center'>
+<div align='left'>
 
-## <b>Proyectos </b>
+# <b>Proyectos </b>
 </div>
 
 
