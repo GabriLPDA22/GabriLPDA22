@@ -70,28 +70,17 @@
 
 <div align='center'>
 
-## <b>¡Adelante, explorando el mundo de la tecnología!</b>
+## <b>Proyectos </b>
 </div>
 
-<div align="center">
 
----
+## Git & GitHub desde cero
+![https://github.com/GabriLPDA22/Aprende-Git](./Proyectos/GIt_x_Github.png)
 
-<h3>🌟 <b>Créditos</b> 🌟</h3>
-<p>
-  <b>Gabriel Saiz</b><br>
-  <a href="https://github.com/GabriLPDA22" style="font-size: large; text-decoration: none;">
-    🚀 Visita mi GitHub 🚀
-  </a>
-  <br>
-</p>
-<p style="color: #1589FF; font-size: x-large;">
-  🌐 Exploremos la tecnología juntos 🌐
-</p>
+[![Git](https://img.shields.io/github/stars/GabriLPDA22/Aprende-Git?label=Curso%20Git%20y%20GitHub&style=social)](https://github.com/GabriLPDA22/Aprende-Git)
 
----
 
-</div>
+
 
 
 
