@@ -77,7 +77,7 @@
 ## Git & GitHub desde cero
 ![https://github.com/GabriLPDA22/Aprende-Git](./Proyectos/GIt_x_Github.png)
 
-[![Git](https://img.shields.io/github/stars/GabriLPDA22/Aprende-Git?label=Curso%20Git%20y%20GitHub&style=social)](https://github.com/GabriLPDA22/Aprende-Git)
+[![Git](https://img.shields.io/github/stars/GabriLPDA22/Aprende-Git?label=Git%20y%20GitHub&style=social)](https://github.com/GabriLPDA22/Aprende-Git)
 
 
 
