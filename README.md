@@ -80,7 +80,10 @@
 [![Git](https://img.shields.io/github/stars/GabriLPDA22/Aprende-Git?label=Git%20y%20GitHub&style=social)](https://github.com/GabriLPDA22/Aprende-Git)
 
 
+## CoreEvolution (WebGym)
+![https://github.com/GabriLPDA22/CoreEvo](./Proyectos/Banner.png)
 
+![Web](https://img.shields.io/github/stars/GabriLPDA22/Aprende-Git?label=Git%20y%20GitHub&style=social)(https://github.com/GabriLPDA22/CoreEvo)
 
 
 
