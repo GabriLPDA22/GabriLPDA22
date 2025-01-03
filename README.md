@@ -4,8 +4,11 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img 
-      src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=650&height=100&lines=Estudiante+DAW+en+modalidad+DUAL;Trabajando+en+Mobile+Technology+and+Web+Integrations;PHP,+JS,+Flutter,+Tailwind,+Kotlin,+Swift,+y+más!;"
-    >
+      src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=850&height=120
+&lines=Estudiante+DAW+en+modalidad+DUAL;
+Trabajando+en+Mobile+Technology+and+Web+Integrations;
+PHP,+JS,+Flutter,+Tailwind,+Kotlin,+Swift,+y+más!"
+    />
   </a>
 </p>
     
