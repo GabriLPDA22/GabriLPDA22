@@ -18,7 +18,7 @@
 - 🌱 Estudiante de Desarrollo de Aplicaciones Web (DAW) en modalidad DUAL
 - 💼 Trabajando en Mobile Technology and Web Integrations
 - 📚 En el grado de DAW aprendí **Java, Python, SQL, C#**
-- 🛠️ En mi trabajo uso **PHP, JavaScript, HTML, CSS con Tailwind, Flutter, Dart, Kotlin, Swift, Twig y Symfony**
+- 🛠️ En mi trabajo uso **PHP, JavaScript, HTML, CSS con Tailwind, Flutter, Dart, Twig y Symfony**
 - 🌐 Familiaridad con AWS y Azure
 - 🤖 Apasionado por la IA, diseño gráfico, y siempre en constante aprendizaje
 
