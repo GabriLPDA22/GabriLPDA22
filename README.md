@@ -48,12 +48,12 @@ Soy un desarrollador web apasionado por crear experiencias digitales modernas y 
 <div align="center">
   <h3>Tecnologías que domino</h3>
   <p>
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,vue,php,symfony,java,cs,python,postgres,docker,aws,azure,git,figma,photoshop" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,tailwind,bootstrap,php,symfony,java,dotnet,cs,python,postgres,mysql,mongodb,docker,aws,git,github,vscode,postman" />
   </p>
   
   <h3>Quiero aprender</h3>
   <p>
-    <img src="https://skillicons.dev/icons?i=react,flutter,dart,nodejs" />
+    <img src="https://skillicons.dev/icons?i=react,nodejs,astro,flutter,dart" />
   </p>
 </div>
 
