@@ -27,7 +27,7 @@
 
 Desarrollador web apasionado por crear experiencias digitales innovadoras y funcionales:
 
-- 🎓 **Estudiante de DAW** finalizando mis estudios en modalidad DUAL
+- 🎓 **Estudiante Graduado en DAW** finalizando mis estudios en modalidad DUAL
   
 - 💼 **Experiencia profesional** en GOLIVE Services, trabajando en el departamento de Mobile Technology & Web Integrations
   
