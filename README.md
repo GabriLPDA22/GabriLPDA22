@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://gabrielcodes.dev" target="_blank">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,13,30&height=180&section=header&text=Gabriel%20Saiz&desc=Desarrollador%20Web%20Fullstack%20%7C%20Especialista%20en%20Vue.js&fontSize=42&fontColor=fff&animation=fadeIn&descSize=18&descAlignY=62&fontAlignY=40" width="100%"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,13,30&height=180&section=header&text=Gabriel%20Saiz&desc=Desarrollador%20Web%20Fullstack%20%7C%20Vue.js%20y%20Symfony&fontSize=42&fontColor=fff&animation=fadeIn&descSize=18&descAlignY=62&fontAlignY=40" width="100%"/>
   </a>
 
   <p align="center">
@@ -68,7 +68,7 @@ Desarrollador web apasionado por crear experiencias digitales innovadoras y func
   
   ### 🎨 Tecnologías Avanzadas
   <p>
-    <img src="https://skillicons.dev/icons?i=threejs,electron" />
+    <img src="https://skillicons.dev/icons?i=threejs" />
     <img src="https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white" height="32"/>
     <img src="https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white" height="32"/>
   </p>
@@ -86,7 +86,7 @@ Desarrollador web apasionado por crear experiencias digitales innovadoras y func
 <div align="center">
   <h3>🚀 Desarrollador Web</h3>
   <h4>GOLIVE Services | Mobile Technology & Web Integrations</h4>
-  <p><strong>2024 - 2025</strong></p>
+  <p><strong>2023 - 2024</strong></p>
   
   <p>Desarrollo de aplicaciones web modernas y soluciones tecnológicas innovadoras</p>
   
