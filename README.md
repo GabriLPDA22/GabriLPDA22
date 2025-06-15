@@ -86,7 +86,7 @@ Desarrollador web apasionado por crear experiencias digitales innovadoras y func
 <div align="center">
   <h3>🚀 Desarrollador Web</h3>
   <h4>GOLIVE Services | Mobile Technology & Web Integrations</h4>
-  <p><strong>2023 - 2024</strong></p>
+  <p><strong>2024 - 2025</strong></p>
   
   <p>Desarrollo de aplicaciones web modernas y soluciones tecnológicas innovadoras</p>
   
