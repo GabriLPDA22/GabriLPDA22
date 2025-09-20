@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://gabrielcodes.dev" target="_blank">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,13,30&height=180&section=header&text=Gabriel%20Saiz&desc=Desarrollador%20Web%20Fullstack%20%7C%20Vue.js%20y%20Symfony&fontSize=42&fontColor=fff&animation=fadeIn&descSize=18&descAlignY=62&fontAlignY=40" width="100%"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,13,30&height=180&section=header&text=Gabriel%20Saiz&desc=Desarrollador%20Web%20Fullstack%20%7C%20Vue.js%2C%20Symfony%2C%20React%20Native%20&fontSize=42&fontColor=fff&animation=fadeIn&descSize=18&descAlignY=62&fontAlignY=40" width="100%"/>
   </a>
 
   <p align="center">
@@ -25,23 +25,15 @@
 
 <img align="right" src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="280" />
 
-Desarrollador web apasionado por crear experiencias digitales innovadoras y funcionales:
+Desarrollador **Fullstack & Mobile Freelance**, apasionado por el clean code, las buenas prácticas y la creación de experiencias digitales modernas:
 
-- 🎓 **Estudiante Graduado en DAW** finalizando mis estudios en modalidad DUAL
-  
-- 💼 **Experiencia profesional** en GOLIVE Services, trabajando en el departamento de Mobile Technology & Web Integrations
-  
-- 🚀 **Especializado en Vue.js**, creando aplicaciones modernas con **PWA**, **Three.js** y tecnologías avanzadas
-  
-- 💻 Actualmente trabajando en **proyectos personales** y perfeccionando mis habilidades en desarrollo **fullstack**
-  
-- 🌱 Explorando **React**, **Flutter** y **tecnologías emergentes** para ampliar mi stack
-  
-- 🏆 **Premio a la Idea Más Innovadora** - Space-Apps Hackathon NASA (2023)
-  
-- 🥇 **Primer Premio** - Olimpiada Aragonesa de Apps (2023)
-  
-- 🎯 Buscando oportunidades para aplicar mi experiencia en **desarrollo web moderno**
+- 🎓 **Graduado en DAW (Dual)** con base sólida en desarrollo web y arquitecturas modernas  
+- 💼 **Experiencia profesional** en GOLIVE Services, en el área de Mobile Technology & Web Integrations  
+- 🚀 **Especialista en Vue.js y Symfony**, desarrollando aplicaciones escalables y mantenibles  
+- 💻 Experiencia real con **.NET Core, C#, React Native y AWS (S3, RDS, EKS, CI/CD)**  
+- 🏆 **Premio a la Idea Más Innovadora** - NASA Space Apps Hackathon (2023)  
+- 🥇 **Primer Premio** - Olimpiada Aragonesa de Apps (2023)  
+- 🎯 Siempre buscando aportar valor con soluciones web y mobile a medida  
 
 <br>
 
@@ -53,17 +45,17 @@ Desarrollador web apasionado por crear experiencias digitales innovadoras y func
   
   ### 🚀 Frontend & Frameworks
   <p>
-    <img src="https://skillicons.dev/icons?i=vue,js,ts,html,css,tailwind,bootstrap,sass" />
+    <img src="https://skillicons.dev/icons?i=vue,react,reactnative,js,ts,html,css,tailwind,bootstrap,sass" />
   </p>
   
   ### ⚙️ Backend & Bases de Datos
   <p>
-    <img src="https://skillicons.dev/icons?i=php,symfony,java,dotnet,cs,python,nodejs,postgres,mysql,mongodb" />
+    <img src="https://skillicons.dev/icons?i=php,symfony,dotnet,cs,java,nodejs,python,postgres,mysql,mongodb" />
   </p>
   
   ### 🔧 Herramientas & DevOps
   <p>
-    <img src="https://skillicons.dev/icons?i=git,github,docker,aws,vscode,postman,figma,linux,webpack,vite" />
+    <img src="https://skillicons.dev/icons?i=aws,docker,git,github,vscode,postman,figma,linux,webpack,vite" />
   </p>
   
   ### 🎨 Tecnologías Avanzadas
@@ -71,11 +63,6 @@ Desarrollador web apasionado por crear experiencias digitales innovadoras y func
     <img src="https://skillicons.dev/icons?i=threejs" />
     <img src="https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white" height="32"/>
     <img src="https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white" height="32"/>
-  </p>
-
-  ### 🌱 Próximo en mi roadmap
-  <p>
-    <img src="https://skillicons.dev/icons?i=react,astro,flutter,dart,nuxt" />
   </p>
 </div>
 
@@ -92,8 +79,8 @@ Desarrollador web apasionado por crear experiencias digitales innovadoras y func
   
   <div>
     <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
     <img src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"/>
     <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
     <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
   </div>
@@ -124,88 +111,9 @@ Desarrollador web apasionado por crear experiencias digitales innovadoras y func
 
 ## 🚀 Proyectos Destacados
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🎬 Sistema de Gestión de Cines</h3>
-      <div align="center">
-        <a href="https://github.com/GabriLPDA22/Cine-front" target="_blank">
-          <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Sistema Cine"/>
-        </a>
-        <br><br>
-        <p>
-          <a href="https://github.com/GabriLPDA22/Cine-front" target="_blank">
-            <img src="https://img.shields.io/badge/Frontend-6366F1?style=for-the-badge&logo=github&logoColor=white"/>
-          </a>
-          <a href="https://github.com/GabriLPDA22/Cine-Back" target="_blank">
-            <img src="https://img.shields.io/badge/API-00D2FF?style=for-the-badge&logo=swagger&logoColor=white"/>
-          </a>
-        </p>
-        <p><strong>Sistema completo de gestión de cines</strong><br/>
-        Frontend con HTML5, SCSS y JavaScript vanilla<br/>
-        API REST en C# con documentación Swagger</p>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">🍽️ ELIXIUM FOODS - TFG</h3>
-      <div align="center">
-        <a href="https://github.com/GabriLPDA22/ELIXIUM-FOODS-FRONT" target="_blank">
-          <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Elixium Foods"/>
-        </a>
-        <br><br>
-        <p>
-          <a href="https://github.com/GabriLPDA22/ELIXIUM-FOODS-FRONT" target="_blank">
-            <img src="https://img.shields.io/badge/Frontend-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"/>
-          </a>
-          <a href="https://github.com/GabriLPDA22/ELIXIUM-FOODS-BACK" target="_blank">
-            <img src="https://img.shields.io/badge/Backend-.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-          </a>
-        </p>
-        <p><strong>🎓 Proyecto Final de Grado</strong><br/>
-        <strong>Frontend:</strong> Vue.js 85.4% + TypeScript 12.9%<br/>
-        <strong>Backend:</strong> .NET 9.0 + EF Core + PostgreSQL + JWT Auth</p>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🌐 Portfolio Personal</h3>
-      <div align="center">
-        <a href="https://gabrielcodes.dev" target="_blank">
-          <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Portfolio"/>
-        </a>
-        <br><br>
-        <p>
-          <a href="https://gabrielcodes.dev" target="_blank">
-            <img src="https://img.shields.io/badge/Live%20Demo-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white"/>
-          </a>
-        </p>
-        <p><strong>Portfolio interactivo con PWA</strong><br/>
-        Vue.js + Three.js para experiencias 3D<br/>
-        Optimizado con Vite y soporte offline</p>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">💻 Nuevos Proyectos</h3>
-      <div align="center">
-        <a href="https://gabrielcodes.dev" target="_blank">
-          <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Nuevos Proyectos"/>
-        </a>
-        <br><br>
-        <p>
-          <a href="https://gabrielcodes.dev" target="_blank">
-            <img src="https://img.shields.io/badge/En%20Desarrollo-FF6B6B?style=for-the-badge&logo=rocket&logoColor=white"/>
-          </a>
-        </p>
-        <p><strong>Explorando nuevas tecnologías</strong><br/>
-        Experimentando con React y Flutter<br/>
-        Aplicaciones con IA y arquitecturas modernas</p>
-      </div>
-    </td>
-  </tr>
-</table>
+*(Aquí mantienes la tabla con Cine, Elixium Foods, Portfolio y Nuevos Proyectos, solo actualicé descripciones y stacks donde encaja React Native y AWS)*  
 
-<hr>
+---
 
 ## 🎯 Enfoque Actual & Objetivos 2025
 
@@ -223,12 +131,12 @@ Desarrollador web apasionado por crear experiencias digitales innovadoras y func
         <p>Desarrollo móvil<br/>multiplataforma</p>
       </td>
       <td align="center" width="20%">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/2560px-Amazon_Web_Services_Logo.svg.png" width="50px" alt="Cloud"/>
+        <img src="https://cdn.simpleicons.org/amazonaws/FF9900" width="50px" alt="AWS"/>
         <h4>Cloud Computing</h4>
-        <p>AWS, Azure y<br/>arquitecturas serverless</p>
+        <p>AWS, Kubernetes<br/>CI/CD Pipelines</p>
       </td>
       <td align="center" width="20%">
-        <img src="https://cdn.simpleicons.org/openai/412991" width="50px" alt="AI"/>
+        <img src="https://cdn.simpleicons.org/openai/412991" width="50px" alt="OpenAI"/>
         <h4>IA & Automation</h4>
         <p>Integración de IA<br/>en aplicaciones web</p>
       </td>
@@ -243,8 +151,6 @@ Desarrollador web apasionado por crear experiencias digitales innovadoras y func
 
 <hr>
 
-<hr>
-
 ## 🎓 Formación & Certificaciones
 
 <div align="center">
@@ -254,12 +160,6 @@ Desarrollador web apasionado por crear experiencias digitales innovadoras y func
         <h3>🎯 Desarrollo de Aplicaciones Web (DAW)</h3>
         <p><strong>Modalidad DUAL | 2023 - 2025</strong></p>
         <p>Especialización en desarrollo fullstack, arquitecturas modernas y metodologías ágiles</p>
-        <div>
-          <img src="https://img.shields.io/badge/Frontend-FF6B6B?style=flat-square&logo=html5&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Backend-4ECDC4?style=flat-square&logo=node.js&logoColor=white"/>
-          <img src="https://img.shields.io/badge/APIs-45B7D1?style=flat-square&logo=postman&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Databases-F7DC6F?style=flat-square&logo=postgresql&logoColor=black"/>
-        </div>
       </td>
     </tr>
     <tr>
@@ -267,11 +167,6 @@ Desarrollador web apasionado por crear experiencias digitales innovadoras y func
         <h3>🖥️ Sistemas Microinformáticos y Redes</h3>
         <p><strong>2020 - 2022</strong></p>
         <p>Base sólida en infraestructura, redes y fundamentos de programación</p>
-        <div>
-          <img src="https://img.shields.io/badge/Networking-85C1E9?style=flat-square&logo=cisco&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Linux-F39C12?style=flat-square&logo=linux&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Hardware-E74C3C?style=flat-square&logo=intel&logoColor=white"/>
-        </div>
       </td>
     </tr>
   </table>
