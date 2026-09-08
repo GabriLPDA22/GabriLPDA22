@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://gabrielcodes.dev">
-    <img src="https://raw.githubusercontent.com/GabriLPDA22/GabriLPDA22/main/banner.png" alt="Gabriel Saiz - Fullstack Developer" width="100%"/>
+    <img src="./banner.png" alt="Gabriel Saiz - Fullstack Developer" width="100%"/>
   </a>
 
   <br/><br/>
@@ -38,7 +38,7 @@ Busco un equipo con **producto propio** donde aportar en **mobile y backend**.
 ## Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,js,dotnet,cs,vue,nodejs,postgres,aws,docker,kubernetes,linux" alt="Tech stack"/>
+  <img src="./stack.png" alt="Tech stack icons" width="90%"/>
   <br/><br/>
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
   <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo"/>
@@ -71,20 +71,11 @@ Busco un equipo con **producto propio** donde aportar en **mobile y backend**.
 
 ## Reconocimientos
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/GabriLPDA22/GabriLPDA22/main/card-nasa.png" width="32%" alt="NASA Space Apps"/>
-  <img src="https://raw.githubusercontent.com/GabriLPDA22/GabriLPDA22/main/card-olimpiada.png" width="32%" alt="Olimpiada Informatica"/>
-  <img src="https://raw.githubusercontent.com/GabriLPDA22/GabriLPDA22/main/card-tfg.png" width="32%" alt="TFG DAW"/>
-</div>
-
----
-
-## Stats
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=GabriLPDA22&show_icons=true&theme=dark&hide_border=true&bg_color=120e0b&title_color=f0b429&icon_color=f0b429&text_color=fff3e6&count_private=true" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabriLPDA22&layout=compact&langs_count=6&theme=dark&hide_border=true&bg_color=120e0b&title_color=f0b429&text_color=fff3e6" alt="Top languages"/>
-</div>
+<p align="center">
+  <img src="./card-nasa.png" width="270" alt="NASA Space Apps"/>
+  <img src="./card-olimpiada.png" width="270" alt="Olimpiada Informatica"/>
+  <img src="./card-tfg.png" width="270" alt="TFG DAW"/>
+</p>
 
 ---
 
@@ -97,12 +88,12 @@ Busco un equipo con **producto propio** donde aportar en **mobile y backend**.
 
 ---
 
-<div align="center">
+<p align="center">
   <a href="https://gabrielcodes.dev">
-    <img src="https://raw.githubusercontent.com/GabriLPDA22/GabriLPDA22/main/footer.png" alt="Construyo software que llega a usuarios reales" width="100%"/>
+    <img src="./footer.png" alt="Construyo software que llega a usuarios reales" width="100%"/>
   </a>
   <br/><br/>
   <a href="https://gabrielcodes.dev">Portfolio</a> ·
   <a href="https://www.linkedin.com/in/gabriel-saiz-de-la-maza-bajo-140370184/">LinkedIn</a> ·
   <a href="mailto:gsaiz.bajo@gmail.com">Email</a>
-</div>
+</p>
