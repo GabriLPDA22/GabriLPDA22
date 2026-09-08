@@ -14,5 +14,5 @@
   <rect width="1200" height="140" fill="url(#bg)"/>
   <rect x="0" y="0" width="1200" height="2" fill="url(#gold)" opacity="0.7"/>
   <text x="600" y="58" text-anchor="middle" fill="#fff3e6" font-family="Georgia, 'Times New Roman', serif" font-size="26" font-weight="700">Construyo software que llega a usuarios reales</text>
-  <text x="600" y="96" text-anchor="middle" fill="#cbb9a0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15">Portfolio · LinkedIn · Email · gabrielcodes.dev</text>
+  <text x="600" y="96" text-anchor="middle" fill="#cbb9a0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15">Portfolio  |  LinkedIn  |  Email  |  gabrielcodes.dev</text>
 </svg>

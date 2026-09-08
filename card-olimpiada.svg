@@ -11,8 +11,8 @@
   </defs>
   <rect width="360" height="200" rx="16" fill="url(#g)" stroke="#f0b429" stroke-opacity="0.28"/>
   <rect x="24" y="24" width="40" height="4" rx="2" fill="url(#gold)"/>
-  <text x="24" y="68" fill="#fff3e6" font-family="Georgia, 'Times New Roman', serif" font-size="22" font-weight="700">Olimpiada Aragón</text>
-  <text x="24" y="100" fill="#f0b429" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="600">Ganador · Sección Apps</text>
-  <text x="24" y="138" fill="#cbb9a0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13">II Olimpiada Informática</text>
-  <text x="24" y="160" fill="#cbb9a0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13">CPITIA · 2023</text>
+  <text x="24" y="68" fill="#fff3e6" font-family="Georgia, 'Times New Roman', serif" font-size="22" font-weight="700">Olimpiada Aragon</text>
+  <text x="24" y="100" fill="#f0b429" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="600">Ganador  |  Seccion Apps</text>
+  <text x="24" y="138" fill="#cbb9a0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13">II Olimpiada Informatica</text>
+  <text x="24" y="160" fill="#cbb9a0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13">CPITIA  |  2023</text>
 </svg>
